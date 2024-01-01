@@ -1,5 +1,11 @@
 # @ignite-ui/react
 
+## 6.0.1
+
+### Patch Changes
+
+- fix elements
+
 ## 6.0.0
 
 ### Major Changes
