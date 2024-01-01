@@ -1,7 +1,7 @@
 {
-  "name": "@ignite-ui/docs",
-  "private": true,
-  "version": "0.0.0",
+  "name": "@caiomeirelles/docs",
+  "private": "false",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,10 +12,10 @@
     "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@caiomeirelles/eslint-config": "*",
+    "@caiomeirelles/react": "*",
+    "@caiomeirelles/tokens": "*",
+    "@caiomeirelles/ts-config": "*",
     "@storybook/addon-a11y": "^7.6.6",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
